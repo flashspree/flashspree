@@ -1,21 +1,23 @@
-@import url(//db.onlinewebfonts.com/c/0b51833ff62e4af8acb5fd3e2bf59e97?family=SF+Pro+Display);
+@font-face {
+  font-family: "SFProRegular";
+  src: URL("asset/font/SFPRODISPLAYREGULAR.OTF") format("truetype");
+}
+@font-face {
+  font-family: "SFProMedium";
+  src: URL("asset/font/SFPRODISPLAYMEDIUM.OTF") format("truetype");
+}
+@font-face {
+  font-family: "SFProBold";
+  src: URL("asset/font/SFPRODISPLAYBOLD.OTF") format("truetype");
+}
 
-@font-face {
-  font-family: SFProRegular;
-  src: URL("/asset/font/SFPRODISPLAYREGULAR.OTF") format("opentype");
-}
-@font-face {
-  font-family: SFProMedium;
-  src: URL("/asset/font/SFPRODISPLAYMEDIUM.OTF") format("opentype");
-}
-@font-face {
-  font-family: SFProBold;
-  src: URL("/asset/font/SFPRODISPLAYBOLD.OTF") format("opentype");
-}
+
+
 
 body, h1, h2,h3,h4,h5,h6 {
-  font-family: 'SFProRegular' !important;
+  font-family: "SFProRegular" !important;
 }
+
 
 @media only screen and (max-width: 768px) {
   .team-aaron-desc{
@@ -159,7 +161,7 @@ body, h1, h2,h3,h4,h5,h6 {
   }
 
   .booking-offer{
-    font-family: "SF Pro Display";
+    font-family: 'SFProRegular';
     font-style: normal;
     font-weight: 700;
     font-size: 60px;
@@ -265,7 +267,7 @@ hr {
 }
 
 .booking-offer{
-  font-family: "SF Pro Display";
+  font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 700;
   font-size: 80px;
@@ -275,7 +277,7 @@ hr {
 }
 
 .portfolio-headline-header {
-  font-family: "SF Pro Display";
+  font-family: "SFProBold";
   display: block;
   font-size: 52px;
   color: #85387E;
@@ -285,7 +287,7 @@ hr {
 }
 
 .headline-header {
-  font-family: "SF Pro Display";
+  font-family: "SFProBold";
   display: block;
   font-size: 130px;
   color: #85387E;
@@ -381,7 +383,7 @@ hr {
 }
 
 .subtitle-about-us-2{
-  font-family: "SF Pro Display";
+  font-family: "SFProRegular";
   font-size: 32px;
   color: #F0F0F0;
   font-weight: 500;
@@ -395,7 +397,7 @@ hr {
 
 .header-misi {
   padding: 10% 0 2% 0;
-  font-family: "SF Pro Display";
+  font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -405,7 +407,7 @@ hr {
 }
 
 .desc-misi{
-  font-family: "SF Pro Display";
+  font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 500;
   font-size: 32px;
@@ -415,7 +417,7 @@ hr {
 }
 
 .team-farrel-header{
-  font-family: "SF Pro Display";
+  font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -425,7 +427,7 @@ hr {
 }
 
 .team-farrel-position{
-  font-family: "SF Pro Display";
+  font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -435,7 +437,7 @@ hr {
 }
 
 .team-farrel-desc{
-  font-family: "SF Pro Display";
+  font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 500;
   font-size: 28px;
@@ -447,7 +449,7 @@ hr {
 
 
 .team-karen-header{
-  font-family: "SF Pro Display";
+  font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -488,7 +490,7 @@ hr {
 }
 
 .team-aaron-position{
-  font-family: "SF Pro Display";
+  font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -498,7 +500,7 @@ hr {
 }
 
 .team-aaron-desc{
-  font-family: "SF Pro Display";
+  font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 500;
   font-size: 28px;
@@ -626,7 +628,7 @@ footer {
 }
 
 .footer-flashspree{
-  font-family: 'SFProRegular';
+  font-family: 'SF Pro Display';
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
