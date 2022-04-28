@@ -1,3 +1,5 @@
+@import url(//db.onlinewebfonts.com/c/0b51833ff62e4af8acb5fd3e2bf59e97?family=SF+Pro+Display);
+
 @font-face {
   font-family: SFProRegular;
   src: URL("/asset/font/SFPRODISPLAYREGULAR.OTF") format("opentype");
@@ -157,7 +159,7 @@ body, h1, h2,h3,h4,h5,h6 {
   }
 
   .booking-offer{
-    font-family: 'SFProRegular';
+    font-family: "SF Pro Display";
     font-style: normal;
     font-weight: 700;
     font-size: 60px;
@@ -263,7 +265,7 @@ hr {
 }
 
 .booking-offer{
-  font-family: 'SFProRegular';
+  font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 700;
   font-size: 80px;
@@ -273,7 +275,7 @@ hr {
 }
 
 .portfolio-headline-header {
-  font-family: "SFProBold";
+  font-family: "SF Pro Display";
   display: block;
   font-size: 52px;
   color: #85387E;
@@ -283,7 +285,7 @@ hr {
 }
 
 .headline-header {
-  font-family: "SFProBold";
+  font-family: "SF Pro Display";
   display: block;
   font-size: 130px;
   color: #85387E;
