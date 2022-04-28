@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'SFProRegular';
+  font-family: 'SF Pro Display';
   src: URL("asset/font/SFPRODISPLAYREGULAR.OTF") format("truetype");
 }
 @font-face {
@@ -15,7 +15,7 @@
 
 
 body, h1, h2,h3,h4,h5,h6 {
-  font-family: 'SFProRegular' !important;
+  font-family: 'SF Pro Display' !important;
 }
 
 
@@ -161,7 +161,7 @@ body, h1, h2,h3,h4,h5,h6 {
   }
 
   .booking-offer{
-    font-family: 'SFProRegular';
+    font-family: 'SF Pro Display';
     font-style: normal;
     font-weight: 700;
     font-size: 60px;
