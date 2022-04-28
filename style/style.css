@@ -1,13 +1,13 @@
 @font-face {
-  font-family: "SFProRegular";
+  font-family: 'SFProRegular';
   src: URL("asset/font/SFPRODISPLAYREGULAR.OTF") format("truetype");
 }
 @font-face {
-  font-family: "SFProMedium";
+  font-family: 'SFProMedium';
   src: URL("asset/font/SFPRODISPLAYMEDIUM.OTF") format("truetype");
 }
 @font-face {
-  font-family: "SFProBold";
+  font-family: 'SFProBold';
   src: URL("asset/font/SFPRODISPLAYBOLD.OTF") format("truetype");
 }
 
@@ -15,7 +15,7 @@
 
 
 body, h1, h2,h3,h4,h5,h6 {
-  font-family: "SFProRegular" !important;
+  font-family: 'SFProRegular' !important;
 }
 
 
@@ -287,7 +287,7 @@ hr {
 }
 
 .headline-header {
-  font-family: "SFProBold";
+  font-family: 'SFProBold';
   display: block;
   font-size: 130px;
   color: #85387E;
@@ -296,7 +296,7 @@ hr {
 }
 
 .headline-header-2{
-  font-family: "SFProBold";
+  font-family: 'SFProBold';
   font-size: 130px;
   color: #5192B7;
   font-weight: 800;
@@ -304,7 +304,7 @@ hr {
 }
 
 .subtitle-header {
-  font-family: "SFProBold";
+  font-family: 'SFProBold';
   font-size: 40px;
   color: #000000;
   font-weight: 800;
@@ -358,7 +358,7 @@ hr {
 }
 
 .subtitle-our-team{
-  font-family: "SFProBold";
+  font-family: 'SFProBold';
   font-size: 52px;
   color: #404040;
   font-weight: 700;
@@ -369,21 +369,21 @@ hr {
 }
 
 .subtitle-about-us{
-  font-family: "SFProBold";
+  font-family: 'SFProBold';
   font-size: 52px;
   color: #F0F0F0;
   font-weight: 700;
 }
 
 .subtitle-portfolio{
-  font-family: "SFProBold";
+  font-family: 'SFProBold';
   font-size: 62px;
   color: #F0F0F0;
   font-weight: 700;
 }
 
 .subtitle-about-us-2{
-  font-family: "SFProRegular";
+  font-family: 'SFProRegular';
   font-size: 32px;
   color: #F0F0F0;
   font-weight: 500;
@@ -549,7 +549,7 @@ hr {
 }
 
 .nav-item .nav-link {
-  font-family: "SFProBold";
+  font-family: 'SFProBold';
   display: block;
   line-height: 36px;
   text-transform: capitalize;
