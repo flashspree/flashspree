@@ -164,8 +164,8 @@ body, h1, h2,h3,h4,h5,h6 {
     font-family: 'SF Pro Display';
     font-style: normal;
     font-weight: 700;
-    font-size: 60px;
-    line-height: 95px;
+    font-size: 40px;
+    line-height: 55px;
     letter-spacing: 0.01em;
     color: #404040;
   }
@@ -270,14 +270,14 @@ hr {
   font-family: 'SF Pro Display';
   font-style: normal;
   font-weight: 700;
-  font-size: 80px;
+  font-size: 70px;
   line-height: 95px;
   letter-spacing: 0.01em;
   color: #404040;
 }
 
 .portfolio-headline-header {
-  font-family: "SFProBold";
+  font-family: 'SF Pro Display';
   display: block;
   font-size: 52px;
   color: #85387E;
@@ -511,7 +511,7 @@ hr {
 }
 
 .logo {
-  font-family: "SFProBold";
+  font-family: 'SF Pro Display';
   font-size: 25px;
   color: #6A6A6A;
 }
@@ -549,7 +549,7 @@ hr {
 }
 
 .nav-item .nav-link {
-  font-family: 'SFProBold';
+  font-family: 'SF Pro Display';
   display: block;
   line-height: 36px;
   text-transform: capitalize;
