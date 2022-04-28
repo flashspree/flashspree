@@ -1,18 +1,18 @@
 @font-face {
-  font-family: "SFProRegular";
+  font-family: SFProRegular;
   src: URL("/asset/font/SFPRODISPLAYREGULAR.OTF") format("opentype");
 }
 @font-face {
-  font-family: "SFProMedium";
+  font-family: SFProMedium;
   src: URL("/asset/font/SFPRODISPLAYMEDIUM.OTF") format("opentype");
 }
 @font-face {
-  font-family: "SFProBold";
+  font-family: SFProBold;
   src: URL("/asset/font/SFPRODISPLAYBOLD.OTF") format("opentype");
 }
 
 body, h1, h2,h3,h4,h5,h6 {
-  font-family: "SFProRegular" !important;
+  font-family: 'SFProRegular' !important;
 }
 
 @media only screen and (max-width: 768px) {
@@ -379,7 +379,7 @@ hr {
 }
 
 .subtitle-about-us-2{
-  font-family: "SFProRegular";
+  font-family: 'SFProRegular';
   font-size: 32px;
   color: #F0F0F0;
   font-weight: 500;
