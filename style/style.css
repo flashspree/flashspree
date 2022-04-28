@@ -381,7 +381,7 @@ hr {
 }
 
 .subtitle-about-us-2{
-  font-family: 'SFProRegular';
+  font-family: "SF Pro Display";
   font-size: 32px;
   color: #F0F0F0;
   font-weight: 500;
@@ -395,7 +395,7 @@ hr {
 
 .header-misi {
   padding: 10% 0 2% 0;
-  font-family: 'SFProRegular';
+  font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -405,7 +405,7 @@ hr {
 }
 
 .desc-misi{
-  font-family: 'SFProRegular';
+  font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 500;
   font-size: 32px;
@@ -415,7 +415,7 @@ hr {
 }
 
 .team-farrel-header{
-  font-family: 'SFProRegular';
+  font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -425,7 +425,7 @@ hr {
 }
 
 .team-farrel-position{
-  font-family: 'SFProRegular';
+  font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -435,7 +435,7 @@ hr {
 }
 
 .team-farrel-desc{
-  font-family: 'SFProRegular';
+  font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 500;
   font-size: 28px;
@@ -447,7 +447,7 @@ hr {
 
 
 .team-karen-header{
-  font-family: 'SFProRegular';
+  font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -488,7 +488,7 @@ hr {
 }
 
 .team-aaron-position{
-  font-family: 'SFProRegular';
+  font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -498,7 +498,7 @@ hr {
 }
 
 .team-aaron-desc{
-  font-family: 'SFProRegular';
+  font-family: "SF Pro Display";
   font-style: normal;
   font-weight: 500;
   font-size: 28px;
