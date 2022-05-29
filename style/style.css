@@ -175,6 +175,11 @@ body, h1, h2,h3,h4,h5,h6 {
     font-size: 18px !important;
   }
 
+  .follow{
+    font-size: 14px !important;
+  }
+
+
   .img-raised{
     width: 10% !important;
   }
@@ -632,7 +637,7 @@ hr {
 }
 
 .navbar-scroll .nav-item .nav-link:hover {
-  color: #fcae42;
+  color: #85387E;
 }
 
 .navbar-scroll .header-btn {
@@ -668,10 +673,24 @@ footer {
   font-size: 36px;
 }
 
+.footer-flashspree a{
+  text-decoration: none;
+}
+
 .follow{
   font-family: 'Ivy Mode';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 30px;
+}
+
+.username{
+  font-family: 'Ivy Mode';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #ffffff;
+  text-decoration: none;
 }
