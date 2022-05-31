@@ -102,12 +102,12 @@ body, h1, h2,h3,h4,h5,h6 {
   }
 
   .portfolio-headline-header{
-    font-size: 42px !important;
+    font-size: 32px !important;
     text-align: center !important;
   }
 
   .client-headline-header{
-    font-size: 25px !important;
+    font-size: 20px !important;
     text-align: left !important;
   }
 
@@ -308,7 +308,7 @@ hr {
 .client-headline-header {
   font-family: "SFProBold";
   display: block;
-  font-size: 32px;
+  font-size: 24px;
   color: #5192B7;
   font-weight: 800;
   padding-bottom: 0% !important;
@@ -318,7 +318,7 @@ hr {
 .portfolio-headline-header {
   font-family: "SFProBold";
   display: block;
-  font-size: 52px;
+  font-size: 42px;
   color: #85387E;
   font-weight: 800;
   padding-bottom: 0% !important;
@@ -416,7 +416,7 @@ hr {
 
 .subtitle-portfolio{
   font-family: "SFProBold";
-  font-size: 62px;
+  font-size: 52px;
   color: #F0F0F0;
   font-weight: 700;
 }
