@@ -286,9 +286,9 @@ hr {
   margin-top: 5% !important;
 }
 
-.photoboxof{
-  /* height: ; */
-}
+/* .photoboxof{
+  height: ;
+} */
 
 .booking{
   background: #F4BEEF;
@@ -351,7 +351,7 @@ hr {
 
 .subtitle-header-2{
   color: #404040;
-  font-size: 34px;
+  font-size: 28px;
   font-weight: 700;
 }
 
@@ -423,7 +423,7 @@ hr {
 
 .subtitle-about-us-2{
   font-family: "SFProRegular";
-  font-size: 32px;
+  font-size: 28px;
   color: #F0F0F0;
   font-weight: 500;
   letter-spacing: 0.05em;
@@ -449,7 +449,7 @@ hr {
   font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 500;
-  font-size: 32px;
+  font-size: 28px;
   text-align: center;
   color: #F0F0F0;
   letter-spacing: 0.05em;
@@ -479,7 +479,7 @@ hr {
   font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 500;
-  font-size: 28px;
+  font-size: 26px;
   text-align: left;
   color: #404040;
   letter-spacing: 0.05em;
@@ -511,7 +511,7 @@ hr {
   font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 500;
-  font-size: 28px;
+  font-size: 26px;
   text-align: left;
   color: #404040;
   letter-spacing: 0.05em;
@@ -542,7 +542,7 @@ hr {
   font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 500;
-  font-size: 28px;
+  font-size: 26px;
   text-align: left;
   color: #404040;
   letter-spacing: 0.05em;
