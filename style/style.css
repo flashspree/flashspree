@@ -188,7 +188,7 @@ body, h1, h2,h3,h4,h5,h6 {
     font-family: 'SFProRegular';
     font-style: normal;
     font-weight: 700;
-    font-size: 60px;
+    font-size: 55px;
     line-height: 95px;
     letter-spacing: 0.01em;
     color: #404040;
@@ -299,7 +299,7 @@ hr {
   font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 700;
-  font-size: 80px;
+  font-size: 75px;
   line-height: 95px;
   letter-spacing: 0.01em;
   color: #404040;
@@ -351,7 +351,7 @@ hr {
 
 .subtitle-header-2{
   color: #404040;
-  font-size: 28px;
+  font-size: 26px;
   font-weight: 700;
 }
 
@@ -398,7 +398,7 @@ hr {
 
 .subtitle-our-team{
   font-family: "SFProBold";
-  font-size: 52px;
+  font-size: 48px;
   color: #404040;
   font-weight: 700;
 }
@@ -409,7 +409,7 @@ hr {
 
 .subtitle-about-us{
   font-family: "SFProBold";
-  font-size: 52px;
+  font-size: 48px;
   color: #F0F0F0;
   font-weight: 700;
 }
@@ -423,7 +423,7 @@ hr {
 
 .subtitle-about-us-2{
   font-family: "SFProRegular";
-  font-size: 28px;
+  font-size: 26px;
   color: #F0F0F0;
   font-weight: 500;
   letter-spacing: 0.05em;
@@ -449,7 +449,7 @@ hr {
   font-family: 'SFProRegular';
   font-style: normal;
   font-weight: 500;
-  font-size: 28px;
+  font-size: 26px;
   text-align: center;
   color: #F0F0F0;
   letter-spacing: 0.05em;
